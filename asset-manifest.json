@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ohermans1/react-deploy.git/static/css/main.eb7c4f61.css",
-    "main.js": "/ohermans1/react-deploy.git/static/js/main.8b6a12f3.js",
-    "index.html": "/ohermans1/react-deploy.git/index.html",
-    "main.eb7c4f61.css.map": "/ohermans1/react-deploy.git/static/css/main.eb7c4f61.css.map",
-    "main.8b6a12f3.js.map": "/ohermans1/react-deploy.git/static/js/main.8b6a12f3.js.map"
+    "main.css": "/ohermans1/static/css/main.eb7c4f61.css",
+    "main.js": "/ohermans1/static/js/main.8b6a12f3.js",
+    "index.html": "/ohermans1/index.html",
+    "main.eb7c4f61.css.map": "/ohermans1/static/css/main.eb7c4f61.css.map",
+    "main.8b6a12f3.js.map": "/ohermans1/static/js/main.8b6a12f3.js.map"
   },
   "entrypoints": [
     "static/css/main.eb7c4f61.css",
